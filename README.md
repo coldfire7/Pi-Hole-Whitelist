@@ -1,1 +1,1 @@
-# Pi-hole list
+Pi-hole config and lists
